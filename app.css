@@ -32,6 +32,7 @@ body {
 
 #mainNavbar .nav-link:hover {
     color: white;
+    cursor: pointer;
 }
 
 #mainNavbar .navbar-brand {
@@ -45,6 +46,11 @@ body {
 #headingGroup h1 {
     font-weight: 100;
     font-size: 3.8rem;
+}
+
+#contacts .nav-link:hover {
+    color: white;
+    cursor: pointer;
 }
 
 .navbar.scrolled {
