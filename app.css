@@ -48,6 +48,10 @@ body {
     font-size: 3.8rem;
 }
 
+#contacts .nav-link {
+    color: #ea1c2c
+}
+
 #contacts .nav-link:hover {
     color: white;
     cursor: pointer;
@@ -64,10 +68,6 @@ body {
 
 .social:hover {
     opacity: .8;
-}
-
-.text-primary {
-    color: #ea1c2c !important;
 }
 
 @media (max-width: 1200px) {
